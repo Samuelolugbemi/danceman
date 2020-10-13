@@ -1,0 +1,11 @@
+C:\Users\Matthew\Documents\CodeBits Academy\C#\Session1\assignment\bin\Debug\netcoreapp3.1\assignment.exe
+C:\Users\Matthew\Documents\CodeBits Academy\C#\Session1\assignment\bin\Debug\netcoreapp3.1\assignment.deps.json
+C:\Users\Matthew\Documents\CodeBits Academy\C#\Session1\assignment\bin\Debug\netcoreapp3.1\assignment.runtimeconfig.json
+C:\Users\Matthew\Documents\CodeBits Academy\C#\Session1\assignment\bin\Debug\netcoreapp3.1\assignment.runtimeconfig.dev.json
+C:\Users\Matthew\Documents\CodeBits Academy\C#\Session1\assignment\bin\Debug\netcoreapp3.1\assignment.dll
+C:\Users\Matthew\Documents\CodeBits Academy\C#\Session1\assignment\bin\Debug\netcoreapp3.1\assignment.pdb
+C:\Users\Matthew\Documents\CodeBits Academy\C#\Session1\assignment\obj\Debug\netcoreapp3.1\assignment.csprojAssemblyReference.cache
+C:\Users\Matthew\Documents\CodeBits Academy\C#\Session1\assignment\obj\Debug\netcoreapp3.1\assignment.AssemblyInfoInputs.cache
+C:\Users\Matthew\Documents\CodeBits Academy\C#\Session1\assignment\obj\Debug\netcoreapp3.1\assignment.AssemblyInfo.cs
+C:\Users\Matthew\Documents\CodeBits Academy\C#\Session1\assignment\obj\Debug\netcoreapp3.1\assignment.dll
+C:\Users\Matthew\Documents\CodeBits Academy\C#\Session1\assignment\obj\Debug\netcoreapp3.1\assignment.pdb
